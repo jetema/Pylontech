@@ -25,15 +25,30 @@ Aparece el indicador pylon>, que permite la entrada de comandos.
 
 Primer comando, por ejemplo.
 
-help_n . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+help
+bat      Battery data show - bat [pwr][index]
+cmdquit  Quit the Console Mode
+data     History data load - data [event/history/misc][item]
+datalist Show recorded data - datalist [event/history/misc][item/bat][batnun][volt/curr/temp/coul][item]
+disp     Display Info at regular intervals - disp [(pwrs pwrNo)/val]/[(bats batNo)/volt/curr/temp]
+getpwr   Get power Info - getpwr
+help     Help [cmd]
+info     Device infomation - info
+log      Log information show - log
+login    Login Admin mode - login [password]
+logout   user mode  - logout
+pwr      Power data show - pwr [index]
+shut     Shut down - shut
+soh      State of health - soh [addr]
+stat     Statistic data show - stat
+time     Time - time [year] [month] [day] [hour] [minute] [second]
+trst     Test Soft Reset - trst
 
-muestra una ayuda
+**********************************************************
 
-pwr'n
 
-/*
+pwr
 
-@
 
 Volt Volt Curr Tempr Tlow Thigh Vlow Vhigh vhigh Base.St Volt.St Curr.St Temp.St tiempo Coulomb B.V.St B.T.St B.T.St
 
