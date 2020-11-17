@@ -53,3 +53,26 @@ pwr
 Volt Volt Curr Tempr Tlow Thigh Vlow Vhigh vhigh Base.St Volt.St Curr.St Temp.St tiempo Coulomb B.V.St B.T.St B.T.St
 
 1 49884 4310 28000 25000 26000 3322 3327
+
+pylon>bat
+bat
+@
+Battery  Volt     Curr     Tempr    Base State   Volt. State  Curr. State  Temp. State  Coulomb
+0        3324     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+1        3326     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+2        3324     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+3        3325     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+4        3327     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+5        3327     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+6        3327     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+7        3327     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+8        3327     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+9        3325     755      25000    Charge       Normal       Normal       Normal        71%      34231 mAH
+10       3326     755      24000    Charge       Normal       Normal       Normal        71%      34231 mAH
+11       3326     755      24000    Charge       Normal       Normal       Normal        71%      34231 mAH
+12       3330     755      24000    Charge       Normal       Normal       Normal        71%      34231 mAH
+13       3327     755      24000    Charge       Normal       Normal       Normal        71%      34231 mAH
+14       3330     755      24000    Charge       Normal       Normal       Normal        71%      34231 mAH
+Command completed successfully
+$$
+pylon>
